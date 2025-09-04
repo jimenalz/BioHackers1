@@ -35,4 +35,10 @@ PASATIEMPO: ver series y películas de terror, escuchar música, leer, pasar tie
 
 Mi área de interés en ingeniería biomédica es tejidos y biomateriales
 
-4)
+4) Eddy Moises Retuerto Rojas
+
+![moises](imagenes/moises.jfif)
+
+...
+
+5)
