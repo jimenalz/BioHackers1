@@ -1,5 +1,5 @@
 # BIOHACKERS
-![portada](imagenes/portada)
+![portada](imagenes/portada.PNG)
 # ⚙DESCRIPCIÓN DEL GRUPO
 Somos estudiantes de ingeniería biomédica y los integrantes del GRUPO 4, el cual lleva por nombre "BIOHACKERS". Este es nuestro repositorio para el curso de Procesos de innovación en bioingeniería en el cual compartiremos nuestros avances a lo largo del curso.
 # 🎇INTEGRANTES DEL GRUPO
@@ -47,4 +47,20 @@ Mi área de interés en ingeniería es Bioinstrumentación com Inteligencia arti
 
 5) Fernando Tito Arrunategui Cajahuaringa
 
-![fernando](imagenes.fernando.jfif)
+![fernando](imagenes/fernando.jfif)
+
+EDAD: 18 años
+
+PASATIEMPO: Leer, Jugar videojuegos, escuchar música, ver fútbol e investigar sobre la Ingeniería Biomedica
+
+Mi área de interés en ingeniería biomédica es tejidos y biomateriales
+
+6) Rihanna Mia Valverde Barrenechea 
+
+![rihana](imagenes/rihana.jfif)
+
+EDAD: 17 años
+
+PASATIEMPO: escuchar música, salir a correr, ver series
+
+Mi área de interés en la carrera de Ing. Biomedica es señales e  imágenes médicas
