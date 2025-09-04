@@ -12,6 +12,7 @@ Somos estudiantes de ingeniería biomédica y los integrantes del GRUPO 4, el cu
 2) Cinthia Jimena Lázaro Tarazona
 
 ![Jimena](imagenes/jimena.jfif)
+
 EDAD: 19 años
 PASATIEMPO: Toca piano, montar bicicleta los domingos cerca a la playa y jugar con mis perritos
 ÁREA DE INTERÉS EN LA CARRERA DE INGENIERÍA BIOMÉDICA: Biomecánica y rehabilitación
