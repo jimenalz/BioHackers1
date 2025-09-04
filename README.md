@@ -15,4 +15,11 @@ Somos estudiantes de ingeniería biomédica y los integrantes del GRUPO 4, el cu
 
 EDAD: 19 años
 PASATIEMPO: Toca piano, montar bicicleta los domingos cerca a la playa y jugar con mis perritos
-ÁREA DE INTERÉS EN LA CARRERA DE INGENIERÍA BIOMÉDICA: Biomecánica y rehabilitación
+Mi area de interés en la carrera de ingeniería biomédica es biomecanica y rehabilitación
+3) Anna Marypaz Ruiz Castillo
+
+![anna](imagenes/anna.jfif)
+
+EDAD: 17 años 
+PASATIEMPO: ver series y películas de terror, escuchar música, leer, pasar tiempo con mi familia. 
+Mi área de interés en ingeniería biomédica es tejidos y biomateriales
