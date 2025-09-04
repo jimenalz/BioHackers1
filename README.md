@@ -1,11 +1,11 @@
 # BIOHACKERS
-
+![portada](imagenes/portada)
 # ⚙DESCRIPCIÓN DEL GRUPO
 Somos estudiantes de ingeniería biomédica y los integrantes del GRUPO 4, el cual lleva por nombre "BIOHACKERS". Este es nuestro repositorio para el curso de Procesos de innovación en bioingeniería en el cual compartiremos nuestros avances a lo largo del curso.
 # 🎇INTEGRANTES DEL GRUPO
 ![fotogrupal](imagenes/475dc60c-4b9c-4588-8590-42f3f7b7c5ab.jfif)
 # 📑DESCRIPCIÓN DE MIEMBROS DEL GRUPO
-1) Livia Alvarez, Carlos Felipe
+1) Carlos Felipe Livia Alvarez
 
 ![carlos](imagenes/carlos.jfif)
 
@@ -39,6 +39,12 @@ Mi área de interés en ingeniería biomédica es tejidos y biomateriales
 
 ![moises](imagenes/moises.jfif)
 
-...
+EDAD: 19 años 
 
-5)
+PASATIEMPO: esuchar musica, hacer deportes y jugar videojuegos
+
+Mi área de interés en ingeniería es Bioinstrumentación com Inteligencia artificial y tejidos
+
+5) Fernando Tito Arrunategui Cajahuaringa
+
+![fernando](imagenes.fernando.jfif)
