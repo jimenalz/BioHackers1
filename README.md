@@ -9,6 +9,12 @@ Somos estudiantes de ingeniería biomédica y los integrantes del GRUPO 4, el cu
 
 ![carlos](imagenes/carlos.jfif)
 
+EDAD: 17 años
+
+PASATIEMPO: Calistenia, fútbol y piano
+
+Mi área de interés en la carrera de ingenería biomédica es ingeniería clínica
+
 2) Cinthia Jimena Lázaro Tarazona
 
 ![Jimena](imagenes/jimena.jfif)
@@ -17,7 +23,7 @@ EDAD: 19 años
 
 PASATIEMPO: Toca piano, montar bicicleta los domingos cerca a la playa y jugar con mis perritos
 
-Mi area de interés en la carrera de ingeniería biomédica es biomecanica y rehabilitación
+Mi área de interés en la carrera de ingeniería biomédica es biomecanica y rehabilitación
 
 3) Anna Marypaz Ruiz Castillo
 
@@ -28,3 +34,5 @@ EDAD: 17 años
 PASATIEMPO: ver series y películas de terror, escuchar música, leer, pasar tiempo con mi familia. 
 
 Mi área de interés en ingeniería biomédica es tejidos y biomateriales
+
+4)
